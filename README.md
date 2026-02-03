@@ -1,5 +1,5 @@
 
-AUTOMATED REGISTERATION 
+## AUTOMATED REGISTERATION 
 
 ##  Features
 
@@ -35,8 +35,6 @@ Make sure you have the following installed:
 
 ---
 
-##  Installation
+##  Deployed Link - 
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Balihaarkaur/Automated-Registeration.git
+https://balihaarkaur.github.io/Automated-Registeration/
